@@ -1,2 +1,7 @@
 mkdir GitHubRepoAssignment
 git init
+touch readme.md
+git status
+git add.
+git commit
+git push
