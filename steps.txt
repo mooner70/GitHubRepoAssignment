@@ -1,0 +1,2 @@
+mkdir GitHubRepoAssignment
+git init
